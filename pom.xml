@@ -78,7 +78,7 @@
     </plugins>
 		
 		
-        </plugins>
+      
     </build>
          <properties>
 <maven.compiler.source>1.6</maven.compiler.source>
